@@ -1,0 +1,40 @@
+/* 
+footer{
+    background-color: antiquewhite;
+    color:black;
+    height: 410px;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 18px;
+    font-family: "Open-sans", "sans-serif";
+    transform: translateY(135px);
+}
+
+footer > ul > li{
+    display: inline;
+    padding: 0 20px;
+    cursor:pointer;
+    transition: 0.2s ease-in;
+}
+
+footer >ul >li:hover{
+    color:#075aff;
+}
+
+.the-line{
+    margin-top: 56px;
+    height:1px;
+    background-color: black;
+    width: 80%;
+}
+
+.date-thingy p{
+    display:inline;
+    padding: 0 20px;
+}
+.date-thingy{
+    margin-top: 56px;
+} */
